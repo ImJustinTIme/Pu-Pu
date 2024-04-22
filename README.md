@@ -1,5 +1,4 @@
 # [Pu-Pu] Portable Universal Playlist Utility
-- - -
 A small portable app for easily creating various playlist files for music and games
 
 The main idea being an no hassle way to create music or game playlist without a whole media application or just copying all the file paths yourself. 
